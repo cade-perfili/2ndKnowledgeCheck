@@ -1,0 +1,15 @@
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\obj\Debug\net6.0\KC2.csproj.AssemblyReference.cache
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\obj\Debug\net6.0\KC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\obj\Debug\net6.0\KC2.AssemblyInfoInputs.cache
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\obj\Debug\net6.0\KC2.AssemblyInfo.cs
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\obj\Debug\net6.0\KC2.csproj.CoreCompileInputs.cache
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\bin\Debug\net6.0\KC2.exe
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\bin\Debug\net6.0\KC2.deps.json
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\bin\Debug\net6.0\KC2.runtimeconfig.json
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\bin\Debug\net6.0\KC2.dll
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\bin\Debug\net6.0\ref\KC2.dll
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\bin\Debug\net6.0\KC2.pdb
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\obj\Debug\net6.0\KC2.dll
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\obj\Debug\net6.0\ref\KC2.dll
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\obj\Debug\net6.0\KC2.pdb
+C:\Users\perfi\SoftWareFinal\WhatAreWeGonnaEat\KC2\KC2\obj\Debug\net6.0\KC2.genruntimeconfig.cache
