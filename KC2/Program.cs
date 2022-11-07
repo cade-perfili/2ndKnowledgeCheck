@@ -13,17 +13,14 @@ for (int i = 0; i < numberOfRecords; i++)
 	// In this loop, populate the object's properties using Console.ReadLine()
 	var register = new Register();
 
-	Console.WriteLine("Enter the value for Name");
-	Register.Name = Console.ReadLine();
+	Console.WriteLine("Enter the value for Hardware Type");
+	Register.HardwareType = Console.ReadLine();
 
-	Console.WriteLine("Enter the Register's for model");
+	Console.WriteLine("Enter the Register's for m" +
+		"odel");
     Register.Registermodel = Console.ReadLine();
 
-	Console.WriteLine("Enter the register's IP address");
-	Register.IpAdress = Console.ReadLine();
-
-	Console.WriteLine("Enter the MAC Address");
-	Register.MacAdress = Console.ReadLine();
+	
 
 
 	recordList.Add(register);
@@ -31,4 +28,8 @@ for (int i = 0; i < numberOfRecords; i++)
 
 
 // Print out the list of records using Console.WriteLine()
-Console.WriteLine(recordList.FindAll);
+foreach (Register register in recordList)
+{
+	Console.WriteLine(Register.HardwareType);
+	Console.WriteLine(Register.Registermodel);
+}
